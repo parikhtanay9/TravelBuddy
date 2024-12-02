@@ -1,0 +1,14 @@
+streamlit
+google-cloud-aiplatform
+vertexai
+
+Flask==2.0.3
+google-cloud-speech
+google-cloud-texttospeech
+requests==2.26.0
+gtts==2.2.3
+dlib
+opencv-python-headless==4.5.5.64
+imutils==0.5.4
+
+
